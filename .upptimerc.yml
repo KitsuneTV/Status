@@ -3,10 +3,18 @@ owner: KitsuneTV # Your GitHub organization or username, where this repository l
 repo: Status # The name of this repository
 
 sites:
-  - name: Kitsune
+  - name: Osaka (Website)
     url: https://kitsune.tv/
-  - name: Kitsune Beta
+  - name: Osaka Beta (Beta Website)
     url: https://beta.kitsune.tv/
+  - name: Kyoto (API)
+    url: https://kyoto.kitsune.tv/
+  - name: Neyagawa (Search)
+    url: https://neyagawa.kitsune.tv/
+  - name: Kyushu (Analytics)
+    url: https://kyushu.kitsune.tv/
+  - name: Sakai (Poster Proxy)
+    url: https://sakai.kitsune.tv/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,10 +25,12 @@ status-website:
   logoUrl: https://kitsune.tv/favicon.svg
   favicon: https://kitsune.tv/favicon.png
   faviconSvg: https://kitsune.tv/favicon.svg
-  name: Kitsune
+  name: Kitsune Status
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Kitsune is constantly being maintained by its developers around the clock. Status updates and maintenance will be posted here as and when we need to.
   navbar:
+    - title: Back to the anime!
+      href: https://kitsune.tv/
     - title: Status
       href: /
     - title: GitHub
