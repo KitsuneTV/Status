@@ -15,6 +15,8 @@ status-website:
   cname: status.kitsune.tv
   # baseUrl: /your-repo-name
   logoUrl: https://kitsune.tv/favicon.svg
+  favicon: https://kitsune.tv/favicon.png
+  faviconSvg: https://kitsune.tv/favicon.svg
   name: Kitsune
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Kitsune is constantly being maintained by its developers around the clock. Status updates and maintenance will be posted here as and when we need to.
