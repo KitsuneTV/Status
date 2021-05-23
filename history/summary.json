@@ -94,19 +94,19 @@
     "url": "https://sakai.kitsune.tv/",
     "icon": "https://favicons.githubusercontent.com/sakai.kitsune.tv",
     "slug": "sakai-poster-proxy",
-    "status": "down",
-    "uptime": "4.40%",
-    "uptimeDay": "4.40%",
-    "uptimeWeek": "4.40%",
-    "uptimeMonth": "4.40%",
-    "uptimeYear": "4.40%",
-    "time": 441,
-    "timeDay": 441,
-    "timeWeek": 441,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "status": "up",
+    "uptime": "0.64%",
+    "uptimeDay": "0.64%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
+    "time": 463,
+    "timeDay": 463,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
     "dailyMinutesDown": {
-      "2021-05-23": 0
+      "2021-05-23": 15
     }
   }
 ]
