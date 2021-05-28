@@ -58,19 +58,19 @@
     "url": "https://neyagawa.kitsune.tv/",
     "icon": "https://favicons.githubusercontent.com/neyagawa.kitsune.tv",
     "slug": "neyagawa-search",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 532,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 407,
+    "timeDay": 487,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2021-05-28": 0
+      "2021-05-28": 31
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://kyushu.kitsune.tv/",
     "icon": "https://favicons.githubusercontent.com/kyushu.kitsune.tv",
     "slug": "kyushu-analytics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 585,
-    "timeWeek": 624,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 593,
+    "timeDay": 516,
+    "timeWeek": 593,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2021-05-28": 0
+      "2021-05-28": 29
     }
   },
   {
