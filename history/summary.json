@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 734,
-    "timeWeek": 735,
-    "timeMonth": 780,
-    "timeYear": 780,
+    "time": 770,
+    "timeDay": 582,
+    "timeWeek": 681,
+    "timeMonth": 770,
+    "timeYear": 770,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 114,
-    "timeWeek": 266,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 286,
+    "timeDay": 218,
+    "timeWeek": 241,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -43,14 +43,14 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 363,
-    "timeDay": 271,
-    "timeWeek": 347,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "time": 360,
+    "timeDay": 300,
+    "timeWeek": 318,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2021-06-03": 9
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 395,
-    "timeDay": 359,
-    "timeWeek": 371,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "time": 389,
+    "timeDay": 267,
+    "timeWeek": 336,
+    "timeMonth": 389,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2021-05-28": 31
     }
@@ -81,16 +81,16 @@
     "icon": "https://favicons.githubusercontent.com/kyushu.kitsune.tv",
     "slug": "kyushu-analytics",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 666,
-    "timeDay": 659,
-    "timeWeek": 671,
-    "timeMonth": 666,
-    "timeYear": 666,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 658,
+    "timeDay": 497,
+    "timeWeek": 621,
+    "timeMonth": 658,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2021-05-28": 29
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 553,
-    "timeDay": 293,
-    "timeWeek": 372,
-    "timeMonth": 553,
-    "timeYear": 553,
+    "time": 540,
+    "timeDay": 285,
+    "timeWeek": 322,
+    "timeMonth": 540,
+    "timeYear": 540,
     "dailyMinutesDown": {
       "2021-05-23": 15
     }
