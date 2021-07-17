@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 591,
-    "timeWeek": 752,
-    "timeMonth": 720,
-    "timeYear": 735,
+    "time": 737,
+    "timeDay": 837,
+    "timeWeek": 750,
+    "timeMonth": 717,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 237,
-    "timeWeek": 299,
-    "timeMonth": 289,
-    "timeYear": 281,
+    "time": 282,
+    "timeDay": 344,
+    "timeWeek": 296,
+    "timeMonth": 288,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 356,
-    "timeDay": 293,
-    "timeWeek": 381,
-    "timeMonth": 358,
-    "timeYear": 356,
+    "time": 357,
+    "timeDay": 426,
+    "timeWeek": 374,
+    "timeMonth": 356,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2021-06-03": 9
     }
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 374,
-    "timeDay": 311,
-    "timeWeek": 372,
-    "timeMonth": 369,
+    "timeDay": 406,
+    "timeWeek": 366,
+    "timeMonth": 368,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2021-05-28": 31
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 637,
-    "timeDay": 512,
-    "timeWeek": 657,
-    "timeMonth": 633,
-    "timeYear": 637,
+    "time": 639,
+    "timeDay": 741,
+    "timeWeek": 651,
+    "timeMonth": 631,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2021-05-28": 29
     }
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 424,
-    "timeDay": 298,
-    "timeWeek": 368,
-    "timeMonth": 357,
+    "timeDay": 393,
+    "timeWeek": 366,
+    "timeMonth": 355,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2021-05-23": 15
