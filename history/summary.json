@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 760,
-    "timeDay": 996,
-    "timeWeek": 766,
-    "timeMonth": 805,
-    "timeYear": 760,
+    "time": 762,
+    "timeDay": 920,
+    "timeWeek": 813,
+    "timeMonth": 814,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2021-07-27": 22
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 266,
-    "timeDay": 192,
-    "timeWeek": 171,
-    "timeMonth": 235,
+    "timeDay": 194,
+    "timeWeek": 181,
+    "timeMonth": 233,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2021-07-27": 20
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 358,
-    "timeDay": 455,
-    "timeWeek": 394,
-    "timeMonth": 359,
-    "timeYear": 358,
+    "time": 359,
+    "timeDay": 438,
+    "timeWeek": 415,
+    "timeMonth": 365,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2021-06-03": 9
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 372,
-    "timeDay": 464,
-    "timeWeek": 440,
-    "timeMonth": 369,
-    "timeYear": 372,
+    "time": 373,
+    "timeDay": 460,
+    "timeWeek": 466,
+    "timeMonth": 375,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2021-07-27": 19,
       "2021-05-28": 31
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 619,
-    "timeDay": 603,
-    "timeWeek": 614,
-    "timeMonth": 588,
+    "timeDay": 608,
+    "timeWeek": 560,
+    "timeMonth": 589,
     "timeYear": 619,
     "dailyMinutesDown": {
       "2021-05-28": 29
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 404,
-    "timeDay": 407,
-    "timeWeek": 397,
-    "timeMonth": 373,
+    "timeDay": 420,
+    "timeWeek": 419,
+    "timeMonth": 378,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2021-05-23": 15
