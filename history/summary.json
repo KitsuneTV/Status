@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 764,
-    "timeDay": 836,
-    "timeWeek": 853,
-    "timeMonth": 836,
+    "timeDay": 745,
+    "timeWeek": 870,
+    "timeMonth": 834,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2021-07-27": 22
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/beta.kitsune.tv",
     "slug": "osaka-beta-beta-website",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 262,
-    "timeDay": 197,
-    "timeWeek": 169,
-    "timeMonth": 226,
-    "timeYear": 262,
+    "uptimeYear": "99.99%",
+    "time": 261,
+    "timeDay": 148,
+    "timeWeek": 172,
+    "timeMonth": 219,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2021-07-27": 20
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 359,
-    "timeDay": 405,
-    "timeWeek": 405,
-    "timeMonth": 373,
-    "timeYear": 359,
+    "time": 358,
+    "timeDay": 298,
+    "timeWeek": 397,
+    "timeMonth": 369,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2021-06-03": 9
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 373,
-    "timeDay": 414,
-    "timeWeek": 426,
-    "timeMonth": 383,
+    "timeDay": 352,
+    "timeWeek": 425,
+    "timeMonth": 381,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2021-07-27": 19,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 616,
-    "timeDay": 612,
+    "time": 615,
+    "timeDay": 497,
     "timeWeek": 561,
-    "timeMonth": 587,
-    "timeYear": 616,
+    "timeMonth": 579,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2021-05-28": 29
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 403,
-    "timeDay": 474,
-    "timeWeek": 375,
-    "timeMonth": 383,
-    "timeYear": 403,
+    "time": 402,
+    "timeDay": 351,
+    "timeWeek": 385,
+    "timeMonth": 382,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2021-05-23": 15
     }
