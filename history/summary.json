@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 764,
-    "timeDay": 745,
-    "timeWeek": 870,
-    "timeMonth": 834,
-    "timeYear": 764,
+    "time": 762,
+    "timeDay": 582,
+    "timeWeek": 815,
+    "timeMonth": 832,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2021-07-27": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 261,
-    "timeDay": 148,
-    "timeWeek": 172,
-    "timeMonth": 219,
-    "timeYear": 261,
+    "time": 260,
+    "timeDay": 116,
+    "timeWeek": 160,
+    "timeMonth": 216,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2021-07-27": 20
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 358,
-    "timeDay": 298,
-    "timeWeek": 397,
-    "timeMonth": 369,
+    "timeDay": 271,
+    "timeWeek": 366,
+    "timeMonth": 368,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2021-06-03": 9
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 373,
-    "timeDay": 352,
-    "timeWeek": 425,
-    "timeMonth": 381,
+    "timeDay": 382,
+    "timeWeek": 401,
+    "timeMonth": 384,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2021-07-27": 19,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 615,
-    "timeDay": 497,
-    "timeWeek": 561,
-    "timeMonth": 579,
-    "timeYear": 615,
+    "time": 614,
+    "timeDay": 531,
+    "timeWeek": 536,
+    "timeMonth": 582,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2021-05-28": 29
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 402,
-    "timeDay": 351,
-    "timeWeek": 385,
+    "time": 401,
+    "timeDay": 281,
+    "timeWeek": 361,
     "timeMonth": 382,
-    "timeYear": 402,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2021-05-23": 15
     }
