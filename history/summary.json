@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 765,
-    "timeDay": 939,
-    "timeWeek": 811,
-    "timeMonth": 848,
-    "timeYear": 765,
+    "time": 767,
+    "timeDay": 936,
+    "timeWeek": 807,
+    "timeMonth": 858,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2021-07-27": 22
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 258,
-    "timeDay": 203,
-    "timeWeek": 162,
-    "timeMonth": 210,
+    "timeDay": 201,
+    "timeWeek": 172,
+    "timeMonth": 209,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2021-07-27": 20
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 359,
-    "timeDay": 488,
-    "timeWeek": 368,
-    "timeMonth": 375,
-    "timeYear": 359,
+    "time": 361,
+    "timeDay": 471,
+    "timeWeek": 384,
+    "timeMonth": 381,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2021-06-03": 9
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/neyagawa.kitsune.tv",
     "slug": "neyagawa-search",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 375,
-    "timeDay": 450,
-    "timeWeek": 398,
-    "timeMonth": 396,
-    "timeYear": 375,
+    "uptimeYear": "99.97%",
+    "time": 376,
+    "timeDay": 454,
+    "timeWeek": 406,
+    "timeMonth": 402,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2021-07-27": 19,
       "2021-05-28": 31
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 614,
-    "timeDay": 625,
-    "timeWeek": 543,
-    "timeMonth": 586,
+    "timeDay": 619,
+    "timeWeek": 559,
+    "timeMonth": 589,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2021-05-28": 29
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 402,
-    "timeDay": 458,
-    "timeWeek": 369,
-    "timeMonth": 382,
+    "timeDay": 424,
+    "timeWeek": 386,
+    "timeMonth": 385,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2021-05-23": 15
