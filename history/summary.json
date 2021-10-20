@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 766,
-    "timeDay": 864,
-    "timeWeek": 715,
-    "timeMonth": 759,
-    "timeYear": 766,
+    "time": 765,
+    "timeDay": 595,
+    "timeWeek": 718,
+    "timeMonth": 750,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2021-07-27": 22
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 181,
-    "timeWeek": 149,
-    "timeMonth": 161,
+    "timeDay": 133,
+    "timeWeek": 152,
+    "timeMonth": 159,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2021-07-27": 20
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
-    "timeDay": 445,
-    "timeWeek": 356,
-    "timeMonth": 373,
+    "timeDay": 340,
+    "timeWeek": 361,
+    "timeMonth": 371,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2021-06-03": 9
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 378,
-    "timeDay": 421,
-    "timeWeek": 364,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "time": 377,
+    "timeDay": 337,
+    "timeWeek": 367,
+    "timeMonth": 374,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2021-07-27": 19,
       "2021-05-28": 31
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 588,
-    "timeDay": 602,
-    "timeWeek": 515,
-    "timeMonth": 536,
-    "timeYear": 588,
+    "time": 587,
+    "timeDay": 453,
+    "timeWeek": 511,
+    "timeMonth": 531,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2021-05-28": 29
     }
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 392,
-    "timeDay": 416,
-    "timeWeek": 347,
-    "timeMonth": 377,
+    "timeDay": 314,
+    "timeWeek": 351,
+    "timeMonth": 373,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2021-05-23": 15
