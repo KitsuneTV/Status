@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 763,
-    "timeDay": 851,
+    "time": 762,
+    "timeDay": 617,
     "timeWeek": 795,
-    "timeMonth": 810,
-    "timeYear": 763,
+    "timeMonth": 804,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2021-07-27": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 199,
-    "timeDay": 190,
-    "timeWeek": 169,
-    "timeMonth": 174,
-    "timeYear": 199,
+    "time": 198,
+    "timeDay": 117,
+    "timeWeek": 168,
+    "timeMonth": 172,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2021-07-27": 20
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 413,
-    "timeWeek": 367,
-    "timeMonth": 381,
-    "timeYear": 372,
+    "time": 371,
+    "timeDay": 314,
+    "timeWeek": 372,
+    "timeMonth": 376,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2021-06-03": 9
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 373,
-    "timeDay": 440,
+    "timeDay": 306,
     "timeWeek": 382,
-    "timeMonth": 386,
+    "timeMonth": 383,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2021-07-27": 19,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 563,
-    "timeDay": 582,
-    "timeWeek": 559,
-    "timeMonth": 550,
-    "timeYear": 563,
+    "time": 562,
+    "timeDay": 476,
+    "timeWeek": 563,
+    "timeMonth": 546,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2021-05-28": 29
     }
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 412,
-    "timeWeek": 378,
-    "timeMonth": 379,
+    "timeDay": 280,
+    "timeWeek": 379,
+    "timeMonth": 375,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2021-05-23": 15
