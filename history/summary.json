@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 763,
-    "timeDay": 866,
-    "timeWeek": 786,
-    "timeMonth": 799,
+    "timeDay": 649,
+    "timeWeek": 759,
+    "timeMonth": 792,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2021-07-27": 22
@@ -25,15 +25,15 @@
     "icon": "https://favicons.githubusercontent.com/beta.kitsune.tv",
     "slug": "osaka-beta-beta-website",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 180,
-    "timeWeek": 168,
-    "timeMonth": 172,
+    "timeDay": 147,
+    "timeWeek": 162,
+    "timeMonth": 171,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2021-07-27": 20
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 468,
-    "timeWeek": 380,
-    "timeMonth": 379,
+    "timeDay": 293,
+    "timeWeek": 368,
+    "timeMonth": 374,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2021-06-03": 9
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 373,
-    "timeDay": 399,
-    "timeWeek": 377,
-    "timeMonth": 384,
+    "timeDay": 272,
+    "timeWeek": 354,
+    "timeMonth": 379,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2021-07-27": 19,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 563,
-    "timeDay": 609,
-    "timeWeek": 566,
-    "timeMonth": 550,
-    "timeYear": 563,
+    "time": 562,
+    "timeDay": 457,
+    "timeWeek": 547,
+    "timeMonth": 552,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2021-05-28": 29
     }
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 398,
-    "timeWeek": 372,
-    "timeMonth": 376,
+    "timeDay": 334,
+    "timeWeek": 361,
+    "timeMonth": 373,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2021-05-23": 15
