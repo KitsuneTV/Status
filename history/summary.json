@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 764,
-    "timeDay": 661,
-    "timeWeek": 783,
-    "timeMonth": 810,
-    "timeYear": 764,
+    "time": 763,
+    "timeDay": 570,
+    "timeWeek": 751,
+    "timeMonth": 803,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2021-07-27": 22
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 122,
-    "timeWeek": 167,
-    "timeMonth": 174,
+    "timeDay": 121,
+    "timeWeek": 158,
+    "timeMonth": 171,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2021-07-27": 20
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
-    "timeDay": 301,
-    "timeWeek": 371,
-    "timeMonth": 380,
+    "timeDay": 308,
+    "timeWeek": 362,
+    "timeMonth": 378,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2021-06-03": 9
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 372,
-    "timeDay": 276,
-    "timeWeek": 343,
-    "timeMonth": 371,
-    "timeYear": 372,
+    "time": 371,
+    "timeDay": 261,
+    "timeWeek": 327,
+    "timeMonth": 367,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2021-07-27": 19,
       "2021-05-28": 31
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 562,
-    "timeDay": 420,
-    "timeWeek": 537,
-    "timeMonth": 559,
-    "timeYear": 562,
+    "time": 561,
+    "timeDay": 427,
+    "timeWeek": 513,
+    "timeMonth": 554,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2021-05-28": 29
     }
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 273,
-    "timeWeek": 361,
-    "timeMonth": 377,
+    "timeDay": 295,
+    "timeWeek": 349,
+    "timeMonth": 374,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2021-05-23": 15
