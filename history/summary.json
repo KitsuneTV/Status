@@ -4,9 +4,9 @@
     "url": "https://kitsune.tv/",
     "icon": "https://favicons.githubusercontent.com/kitsune.tv",
     "slug": "osaka-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 741,
     "timeYear": 759,
     "dailyMinutesDown": {
+      "2022-03-18": 0,
       "2022-03-16": 44,
       "2021-07-27": 22
     }
@@ -25,18 +26,19 @@
     "url": "https://beta.kitsune.tv/",
     "icon": "https://favicons.githubusercontent.com/beta.kitsune.tv",
     "slug": "osaka-beta-beta-website",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 197,
     "timeDay": 215,
     "timeWeek": 184,
     "timeMonth": 172,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2022-03-18": 0,
       "2022-03-16": 44,
       "2021-07-27": 20
     }
@@ -46,9 +48,9 @@
     "url": "https://kyoto.kitsune.tv/",
     "icon": "https://favicons.githubusercontent.com/kyoto.kitsune.tv",
     "slug": "kyoto-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
@@ -58,6 +60,7 @@
     "timeMonth": 368,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2022-03-18": 0,
       "2022-03-16": 44,
       "2021-06-03": 9
     }
@@ -67,9 +70,9 @@
     "url": "https://neyagawa.kitsune.tv/",
     "icon": "https://favicons.githubusercontent.com/neyagawa.kitsune.tv",
     "slug": "neyagawa-search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
@@ -79,6 +82,7 @@
     "timeMonth": 353,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2022-03-18": 0,
       "2022-03-16": 44,
       "2021-07-27": 19,
       "2021-05-28": 31
@@ -90,18 +94,18 @@
     "icon": "https://favicons.githubusercontent.com/kyushu.kitsune.tv",
     "slug": "kyushu-analytics",
     "status": "down",
-    "uptime": "99.58%",
+    "uptime": "99.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.27%",
-    "uptimeMonth": "95.92%",
-    "uptimeYear": "99.58%",
+    "uptimeWeek": "73.74%",
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "99.38%",
     "time": 558,
     "timeDay": 444,
     "timeWeek": 445,
     "timeMonth": 519,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-03-18": 70,
+      "2022-03-18": 930,
       "2022-03-17": 1440,
       "2022-03-16": 277,
       "2021-05-28": 29
@@ -112,9 +116,9 @@
     "url": "https://sakai.kitsune.tv/",
     "icon": "https://favicons.githubusercontent.com/sakai.kitsune.tv",
     "slug": "sakai-poster-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
@@ -124,6 +128,7 @@
     "timeMonth": 359,
     "timeYear": 376,
     "dailyMinutesDown": {
+      "2022-03-18": 0,
       "2022-03-16": 44,
       "2021-05-23": 15
     }
